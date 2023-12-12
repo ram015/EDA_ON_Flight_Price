@@ -5,7 +5,7 @@ Introduction:
 This project aims to predict flight prices based on various features such as airline, source, destination,
 departure time, and duration. The dataset comprises flights from 2019 to 2020, with a focus on understanding patterns that influence ticket prices.
 
-                                                              Exploratory Data Analysis (EDA) Summary:
+                                              Exploratory Data Analysis (EDA) Summary:
 Price Variation by Source and Destination:
   -Flights originating from Banglore to New Delhi are observed to be relatively expensive.
   -Flights between Chennai and Kolkata, as well as Banglore and Delhi, tend to be more budget-friendly.
@@ -28,7 +28,7 @@ Visualization Highlights:
   -Bar chart: Average price based on source and destination.
   -Scatter plot: Relationship between price, duration, and departure time.
   -3D scatter plot: Price distribution based on duration (hours and minutes) and departure hour.
-                                                                                  Observations:
+                                          Observations:
 Source-Destination Dynamics:
   -Flights originating from Banglore to New Delhi are relatively expensive, possibly due to high demand or specific route characteristics. 
   -Contrarily, flights connecting Chennai to Kolkata and Banglore to Delhi tend to offer more budget-friendly options, potentially influenced by 
